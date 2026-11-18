@@ -31,7 +31,7 @@ MEH BIRD takes the familiar endless-runner concept and adds its own collection o
 
 ## 📸 Screenshots
 
-![Gameplay](Screenshots/zero.jpg)
+![Gameplay](Assets/Assets/Screenshots/zero.jpg)
 ![First](Screenshots/first.jpg)
 ![Second](Screenshots/second.jpg)
 ![Third](Screenshots/third.jpg)
