@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Bg Objects
+  - Vehicals
+  - Bounce Platform Layer
+  - Bounce Object
+  - Road Collider Layer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Car
+    uniqueID: 3900208863
+    locked: 0
+  - name: Player
+    uniqueID: 3819643929
+    locked: 0
+  - name: UI
+    uniqueID: 1472138869
+    locked: 0
+  - name: Laser
+    uniqueID: 784222067
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []
